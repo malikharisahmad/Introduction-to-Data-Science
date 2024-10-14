@@ -31,4 +31,4 @@ The repository is organized into the following folders and files:
 
 To clone the repository:
    ```bash
-   git clone https://github.com/yourusername/introduction-to-data-science.git
+   git clone https://github.com/malikharisahmad/Introduction-to-Data-Science.git
